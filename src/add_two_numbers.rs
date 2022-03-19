@@ -1,3 +1,5 @@
+#![allow(dead_code)]
+
 /// https://leetcode.com/problems/add-two-numbers/
 
 // Definition for singly-linked list.
@@ -14,13 +16,11 @@ impl ListNode {
     }
 }
 
-#[allow(dead_code)]
 struct Solution;
 
 // -----
 
 impl Solution {
-    #[allow(dead_code)]
     pub fn add_two_numbers(
         mut l1: Option<Box<ListNode>>,
         mut l2: Option<Box<ListNode>>,
