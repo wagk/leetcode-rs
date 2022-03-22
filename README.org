@@ -19,7 +19,7 @@ List sourced from [[https://www.techinterviewhandbook.org/best-practice-question
 ** Data structures
 - [ ] Reverse a Linked List
 - [ ] Detect Cycle in a Linked List
-- [ ] Container With Most Water
+- [X] Container With Most Water
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Longest Repeating Character Replacement
 - [ ] Longest Substring Without Repeating Characters
