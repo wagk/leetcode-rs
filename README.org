@@ -1,5 +1,5 @@
 * leetcode-rs
-This is really more of an "algorithmic-toolbox-rs" sort of deal.
+More like "Deletecode-rs".
 
 * Couch to 5k(loc)
 List sourced from [[https://www.techinterviewhandbook.org/best-practice-questions/][the technical interview handbook]].
