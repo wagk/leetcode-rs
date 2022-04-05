@@ -20,7 +20,7 @@ List sourced from [[https://www.techinterviewhandbook.org/best-practice-question
 - [ ] Reverse a Linked List
 - [ ] Detect Cycle in a Linked List
 - [X] Container With Most Water
-- [ ] Find Minimum in Rotated Sorted Array
+- [X] Find Minimum in Rotated Sorted Array
 - [ ] Longest Repeating Character Replacement
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Number of Islands
