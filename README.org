@@ -17,7 +17,7 @@ List sourced from [[https://www.techinterviewhandbook.org/best-practice-question
 - [ ] [[https://leetcode.com/problems/group-anagrams/][Group Anagrams]]
 
 ** Data structures
-- [ ] Reverse a Linked List
+- [X] Reverse a Linked List
 - [ ] Detect Cycle in a Linked List
 - [X] Container With Most Water
 - [X] Find Minimum in Rotated Sorted Array
